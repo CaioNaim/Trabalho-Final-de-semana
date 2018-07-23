@@ -6,3 +6,16 @@ h1 {
 	text-align:center;
 
 }
+body{
+	background-image: url("../assets/medieval.jpg");
+	background-attachment: fixed;
+	height: 100%;
+	
+	
+}
+.imagemCriacao{
+	width: 10%;
+}
+.botaoLogar{
+	margin-bottom: 0%
+}

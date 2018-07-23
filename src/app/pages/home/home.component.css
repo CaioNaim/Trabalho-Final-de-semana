@@ -1,0 +1,41 @@
+
+
+#botaoSaber{
+	background-color: green;
+}
+
+
+#logar{
+	text-align: center;
+}
+#botaoLogar{
+	background-color: green;
+	width: 100%;
+}
+.castelo{
+	filter: blur(4px);
+	text-align: center;
+}
+#botao{
+	
+	background-color: transparent;
+}
+#titulo{
+	margin-bottom: 30%;
+	text-align: center;
+	
+}
+.container{
+	width: 50%
+}
+h1{
+	color: black;
+}
+
+#saberMais{
+	margin-left: 50%
+}
+
+span{
+	text-align: center;
+}
